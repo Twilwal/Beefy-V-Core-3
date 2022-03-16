@@ -9,3 +9,13 @@ BOM
 1- Touch Screen Back Plate
 1- Touch Screen Front Plate
 4- M3x0.5x14 Socket Head Allen Screws
+
+Print Settings:
+
+0.2mm Layer Height
+No supports
+30% infill
+wall thickness - 3
+Top/Bottom Layers - 3
+
+This design was built from the ground up with inspiration from Mikkel Schmidt's design based around this screen. 
